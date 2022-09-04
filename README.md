@@ -1,4 +1,4 @@
-# vuetify
+# Vuetify-CrashCourse
 
 ## Project setup
 ```
